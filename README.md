@@ -1,6 +1,8 @@
 ## Unit Testing Assignment
 
-by Bill Gates.
+by James Brucker and Bill Gates.
+
+Copyright Microsoft, 2019.
 
 
 ## Test Cases for unique
