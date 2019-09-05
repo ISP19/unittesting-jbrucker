@@ -2,7 +2,7 @@
 
 by James Brucker and Bill Gates.
 
-Copyright Microsoft, 2019.
+Copyright KU-CPSKE, 2019.
 
 
 ## Test Cases for unique
